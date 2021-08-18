@@ -1,0 +1,47 @@
+
+    body {
+        background-image: url("cool-background.png");
+        background-color: #cccccc;
+       }
+
+
+.sec_1{
+    background-color: darkgrey;
+}
+
+.sec_2{
+    background-color: darkgrey;
+}
+
+.sec_3{
+    background-color: darkgrey;
+}
+
+.image_stylin{
+    height: 300px;
+    width: 300px;
+}
+
+#img1{
+    height: 300px;
+    width:300px;
+    border-style: groove;
+    border-color: darkslategray;
+    border-width:5px;
+}
+
+#img2{
+    height: 300px;
+    width:300px;
+    border-style: groove;
+    border-color: darkslategray;
+    border-width:5px;
+}
+
+#img3{
+    height: 300px;
+    width:300px;
+    border-style: groove;
+    border-color: darkslategray;
+    border-width:5px;
+}
